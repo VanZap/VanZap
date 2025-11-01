@@ -32,13 +32,5 @@ Here's a quick snapshot of the technologies and tools I use and love:
   ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
-## 🛠️ Projects
-Feel free to check out some of my projects in the repositories section!
-
-## 🔗 Lets's Connect!
-- ![LinkedIn] (https://www.linkedin.com/in/ivan-joshua-zapanta/)
-
-Thanks for stopping by my GitHub profile! Don’t hesitate to reach out if you have any questions or just want to chat about technology. Happy coding! 🚀
-
 
 
